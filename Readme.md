@@ -53,13 +53,14 @@ MockGPT is a MERN stack-based AI mock interview platform designed to simulate re
 ### 📊 Dashboard
 
 #### Main Dashboard
+#### Role & Mode Selection
 ![Dashboard](screenshots/Dashboard.png)
 
 ---
 
 ### 🎯 Pre-Interview Screen
 
-#### Role & Mode Selection
+#### Camera & microphone permissions
 ![Pre-Interview Screen](screenshots/PreInterviewscreen.png)
 
 ---
@@ -76,7 +77,7 @@ MockGPT is a MERN stack-based AI mock interview platform designed to simulate re
 
 ### 💻 Code Editor
 
-#### Coding Round Editor
+#### Coding Editor
 ![Code Editor](screenshots/CodeEditor.png)
 
 ---
