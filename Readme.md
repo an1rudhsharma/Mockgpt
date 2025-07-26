@@ -30,23 +30,23 @@ MockGPT is a MERN stack-based AI mock interview platform designed to simulate re
 ### 🏠 Homepage Screens
 
 #### Homepage – View 1
-![Homepage View 1](screenshots/HomePage-1.png)
+![Homepage View 1](mockgpt-client-main/public/HomePage-1.png)
 
 #### Homepage – View 2
-![Homepage View 2](screenshots/HomePage-2.png)
+![Homepage View 2](mockgpt-client-main/public/HomePage-2.png)
 
 #### Homepage – View 3
-![Homepage View 3](screenshots/HomePage-3.png)
+![Homepage View 3](mockgpt-client-main/public/HomePage-3.png)
 
 ---
 
 ### 🔐 Authentication
 
 #### Sign In Page
-![Sign In Page](screenshots/Signin.png)
+![Sign In Page](mockgpt-client-main/public/Signin.png)
 
 #### Signup Page
-![Signup Page](screenshots/Signup.png)
+![Signup Page](mockgpt-client-main/public/Signup.png)
 
 ---
 
@@ -54,38 +54,38 @@ MockGPT is a MERN stack-based AI mock interview platform designed to simulate re
 
 #### Main Dashboard
 #### Role & Mode Selection
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](mockgpt-client-main/public/Dashboard.png)
 
 ---
 
 ### 🎯 Pre-Interview Screen
 
 #### Camera & microphone permissions
-![Pre-Interview Screen](screenshots/PreInterviewscreen.png)
+![Pre-Interview Screen](mockgpt-client-main/public/PreInterviewscreen.png)
 
 ---
 
 ### 🧑‍💼 Interview Interface
 
 #### Interview in Progress – View 1
-![Interview Screen](screenshots/InterviewScreen.png)
+![Interview Screen](mockgpt-client-main/public/InterviewScreen.png)
 
 #### Interview in Progress – View 2
-![Interview Screen 2](screenshots/InterviewScreen-2.png)
+![Interview Screen 2](mockgpt-client-main/public/InterviewScreen-2.png)
 
 ---
 
 ### 💻 Code Editor
 
 #### Coding Editor
-![Code Editor](screenshots/CodeEditor.png)
+![Code Editor](mockgpt-client-main/public/CodeEditor.png)
 
 ---
 
 ### 📈 Feedback & Stats
 
 #### Feedback – View 1
-![Feedback 1](screenshots/Feedback-1.png)
+![Feedback 1](mockgpt-client-main/public/Feedback-1.png)
 
 #### Feedback – View 2
-![Feedback 2](screenshots/Feedback-2.png)
+![Feedback 2](mockgpt-client-main/public/Feedback-2.png)
